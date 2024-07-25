@@ -19,3 +19,8 @@ th {
   text-align: start;
   padding: 1rem 0.5rem;
 }
+
+
+.some-class{
+  background-color: blue;
+}
