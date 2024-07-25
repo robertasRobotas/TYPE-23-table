@@ -1,0 +1,21 @@
+table {
+  width: 40%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid rgb(210, 210, 210);
+  /* padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem; */
+
+  padding: 2rem 1rem;
+}
+
+th {
+  background-color: bisque;
+  text-align: start;
+  padding: 1rem 0.5rem;
+}
